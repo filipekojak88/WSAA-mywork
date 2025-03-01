@@ -2,27 +2,21 @@ import requests
 import json
 url = 'https://andrewbeatty1.pythonanywhere.com/books'
 
-def getallbooks():
+def readbooks():
     response = requests.get(url)
     return response.json()
 
-def getbookbyid(id):
+def readbook(id):
     geturl = url + '/' + str(id)
     response = requests.get(geturl)
     return response.json()
 
 def createbook(book):
     response = requests.post(url, json=book)
-    #headers = {'Content-Type': 'application/json'}
-    #response = requests.post(url, data=json.dumps(book), headers=headers)
-
-
     
-    # Check if the response is empty or an error
-    if response.status_code != 200 and response.status_code != 201:  
+    if response.status_code != 200 and response.status_code != 201:
         print(f"Error: {response.status_code}, Response: {response.text}")
         return None
-
     try:
         return response.json()
     except requests.exceptions.JSONDecodeError:
@@ -42,16 +36,16 @@ def deletebook(id):
 
 if __name__ == '__main__':
     book = {
-        'Author':"test100",
-        'Title':"test100 title",
-        "Price": 1276
+        "author":"test100",
+        "title":"test100 title",
+        "price": 1276
     }
     bookiff = {
-        "Price": 123
+        "price": 123
     }
-    #print(getallbooks())
-    #print(getbookbyid(545))
+    #print(readbooks())
+    #print(readbook(545))
     #print(deletebook(545))
     #print(createbook(book))
-    print (updatebook(545, bookiff))
+    #print (updatebook(546, bookiff))
           
