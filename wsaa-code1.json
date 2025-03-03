@@ -1,0 +1,82 @@
+[
+    {
+        "name": ".gitignore",
+        "path": ".gitignore",
+        "sha": "15201acc113da01edf6fa2fb2708b2e9076b6bc5",
+        "size": 3415,
+        "url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/.gitignore?ref=main",
+        "html_url": "https://github.com/filipekojak88/WSAA-assignments/blob/main/.gitignore",
+        "git_url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/15201acc113da01edf6fa2fb2708b2e9076b6bc5",
+        "download_url": "https://raw.githubusercontent.com/filipekojak88/WSAA-assignments/main/.gitignore",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/.gitignore?ref=main",
+            "git": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/15201acc113da01edf6fa2fb2708b2e9076b6bc5",
+            "html": "https://github.com/filipekojak88/WSAA-assignments/blob/main/.gitignore"
+        }
+    },
+    {
+        "name": "README.md",
+        "path": "README.md",
+        "sha": "3b7d7a8b4dc7e9c260db9b4a83180327a2bb1680",
+        "size": 18,
+        "url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/README.md?ref=main",
+        "html_url": "https://github.com/filipekojak88/WSAA-assignments/blob/main/README.md",
+        "git_url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/3b7d7a8b4dc7e9c260db9b4a83180327a2bb1680",
+        "download_url": "https://raw.githubusercontent.com/filipekojak88/WSAA-assignments/main/README.md",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/README.md?ref=main",
+            "git": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/3b7d7a8b4dc7e9c260db9b4a83180327a2bb1680",
+            "html": "https://github.com/filipekojak88/WSAA-assignments/blob/main/README.md"
+        }
+    },
+    {
+        "name": "assignment03-cso.py",
+        "path": "assignment03-cso.py",
+        "sha": "ae86d4054c270682a1b2372da9f96aababa26eac",
+        "size": 822,
+        "url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/assignment03-cso.py?ref=main",
+        "html_url": "https://github.com/filipekojak88/WSAA-assignments/blob/main/assignment03-cso.py",
+        "git_url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/ae86d4054c270682a1b2372da9f96aababa26eac",
+        "download_url": "https://raw.githubusercontent.com/filipekojak88/WSAA-assignments/main/assignment03-cso.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/assignment03-cso.py?ref=main",
+            "git": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/ae86d4054c270682a1b2372da9f96aababa26eac",
+            "html": "https://github.com/filipekojak88/WSAA-assignments/blob/main/assignment03-cso.py"
+        }
+    },
+    {
+        "name": "assignment2-carddraw.py",
+        "path": "assignment2-carddraw.py",
+        "sha": "9eda5de7e89a89de912a97e62db3cf7e36549164",
+        "size": 1941,
+        "url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/assignment2-carddraw.py?ref=main",
+        "html_url": "https://github.com/filipekojak88/WSAA-assignments/blob/main/assignment2-carddraw.py",
+        "git_url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/9eda5de7e89a89de912a97e62db3cf7e36549164",
+        "download_url": "https://raw.githubusercontent.com/filipekojak88/WSAA-assignments/main/assignment2-carddraw.py",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/assignment2-carddraw.py?ref=main",
+            "git": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/9eda5de7e89a89de912a97e62db3cf7e36549164",
+            "html": "https://github.com/filipekojak88/WSAA-assignments/blob/main/assignment2-carddraw.py"
+        }
+    },
+    {
+        "name": "cso.json",
+        "path": "cso.json",
+        "sha": "c58f2403b7f591f82b247c7203bb10accd11e67b",
+        "size": 12663,
+        "url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/cso.json?ref=main",
+        "html_url": "https://github.com/filipekojak88/WSAA-assignments/blob/main/cso.json",
+        "git_url": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/c58f2403b7f591f82b247c7203bb10accd11e67b",
+        "download_url": "https://raw.githubusercontent.com/filipekojak88/WSAA-assignments/main/cso.json",
+        "type": "file",
+        "_links": {
+            "self": "https://api.github.com/repos/filipekojak88/WSAA-assignments/contents/cso.json?ref=main",
+            "git": "https://api.github.com/repos/filipekojak88/WSAA-assignments/git/blobs/c58f2403b7f591f82b247c7203bb10accd11e67b",
+            "html": "https://github.com/filipekojak88/WSAA-assignments/blob/main/cso.json"
+        }
+    }
+]
